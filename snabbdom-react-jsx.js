@@ -13,7 +13,7 @@ var events = [
   'mousedown', 'mouseenter', 'mouseleave', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'select',
   'touchcancel', 'touchend', 'touchmove', 'touchstart',
   'scroll', 'wheel',
-  'abort', 'canplay', 'canplaythrough', 'durationchange', 'emptied', 'encrypted', 'ended'
+  'abort', 'canplay', 'canplaythrough', 'durationchange', 'emptied', 'encrypted', 'ended', 'loadedmetadata'
 ];
 
 var propMap = {
